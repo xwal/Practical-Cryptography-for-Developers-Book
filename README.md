@@ -1,5 +1,11 @@
 # Welcome
 
+### Build With PDF
+```bash
+npm install
+npx honkit pdf
+```
+
 > **Warning**: this book is **not finished**! I am still working on some of the chapters. Once it is completed, I will publish it as PDF and EPUB. Be patient.
 
 [![Practical Cryptography for Developers - Free Book by Svetlin Nakov - front cover](.gitbook/assets/practical-cryptography-for-developers-book-nakov-front-cover.png)](https://cryptobook.nakov.com)
